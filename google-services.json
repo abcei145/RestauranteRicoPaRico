@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "673059886371",
+    "firebase_url": "https://charrua-7de30.firebaseio.com",
+    "project_id": "charrua-7de30",
+    "storage_bucket": "charrua-7de30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673059886371:android:7b70028a1fb38a9b",
+        "android_client_info": {
+          "package_name": "com.example.charruapizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673059886371-0soke0ttbpramfa7q9ugpfad356n5b8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxocLqxQobzfNGzR_n6AubpogSkwwflQc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
